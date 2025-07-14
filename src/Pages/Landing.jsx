@@ -3,7 +3,6 @@ import './CSS/Landing.css';
 import ec20 from '../Components/Assets/ec20.png';
 import ec27 from '../Components/Assets/ec27.png';
 import ec28 from '../Components/Assets/ec28.png';
-import ec29 from '../Components/Assets/ec29.png';
 import ec32 from '../Components/Assets/ec32.png';
 import sup from '../Components/Assets/sup.png';
 import chart from '../Components/Assets/chart.PNG';
